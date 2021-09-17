@@ -22,3 +22,6 @@
 [submodule "lib/printf"]
 	path = lib/printf
 	url = https://github.com/qmk/printf
+[submodule "keyboards/kinesis/keymaps/datahand"]
+	path = keyboards/kinesis/keymaps/datahand
+	url = git@github.com:e0a6/datahand.git
